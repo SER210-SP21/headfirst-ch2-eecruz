@@ -1,3 +1,8 @@
+/** Assignment: Beer Advisor (Chapter 2 Demo)
+ *  @author: Emilio Cruz
+ *  @date: 2/5/23
+ */
+
 package edu.quinnipiac.ser210.chapter2demo
 
 import androidx.appcompat.app.AppCompatActivity
